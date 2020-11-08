@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://rain.github.io</id>
     <title>闲情逸致</title>
-    <updated>2020-11-08T07:06:35.035Z</updated>
+    <updated>2020-11-08T07:08:37.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://rain.github.io"/>
     <link rel="self" href="https://https://rain.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://https://rain.github.io/images/avatar.png</logo>
     <icon>https://https://rain.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 闲情逸致</rights>
+    <entry>
+        <title type="html"><![CDATA[金海湖]]></title>
+        <id>https://https://rain.github.io/post/jin-hai-hu/</id>
+        <link href="https://https://rain.github.io/post/jin-hai-hu/">
+        </link>
+        <updated>2020-11-08T07:07:55.000Z</updated>
+        <content type="html"><![CDATA[<p>那日阳光明媚</p>
+]]></content>
+    </entry>
 </feed>

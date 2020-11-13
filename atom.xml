@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bufferfly-hh.github.io</id>
     <title>闲情逸致</title>
-    <updated>2020-11-13T14:01:19.830Z</updated>
+    <updated>2020-11-13T14:17:23.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bufferfly-hh.github.io"/>
     <link rel="self" href="https://bufferfly-hh.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://bufferfly-hh.github.io/images/avatar.png</logo>
     <icon>https://bufferfly-hh.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 闲情逸致</rights>
+    <entry>
+        <title type="html"><![CDATA[孤独苦]]></title>
+        <id>https://bufferfly-hh.github.io/post/gu-du-ku/</id>
+        <link href="https://bufferfly-hh.github.io/post/gu-du-ku/">
+        </link>
+        <updated>2020-11-13T14:01:27.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>独上高楼，望尽天涯路<br>
+衣带渐宽终不悔，为伊消得人憔悴<br>
+众里寻她千百度，蓦然回首那人却在灯火阑珊处</p>
+</blockquote>
+<p>人不会因为离群索居而孤独，那叫孤单，软弱的人也称无助。<br>
+人不会时刻感到孤独，孤独是一瞬间的感受，尤其是在专注过久，进入无人无我无众生无寿者的境界时，突然在一个时间点泪流满面，仿佛世界之大唯我一人踽踽独行，这么远，已将他人远远的落在了后面，再无人能望其项背，优秀自律的人才会孤独，平庸之辈不会孤独，因为有各种诱惑伴随左右，而你乐于与之为伍。<br>
+孤独苦，苦在通往孤独的路上，此后便能享受满足，仿佛鲜花簇拥，芬香扑面<br>
+孤独苦，苦在苦心孤诣，求索他人所不能求，无人可助你，无人可知你<br>
+孤独苦，苦在迷茫之时的坚持，黎明之前的寒冷<br>
+孤独苦，苦在身在闹市，无人可诉说心怀</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[别离不苦]]></title>
         <id>https://bufferfly-hh.github.io/post/chi-bie-bu-ku/</id>
